@@ -11,7 +11,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/61mQDFK0CNL._AC_UF1000,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Chocolate</h5>
@@ -24,7 +24,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/61y4Xljq-eL._AC_UF894,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Chocolate</h5>
@@ -36,7 +36,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/71IPBQVT2fL._AC_UF1000,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Coffee</h5>
@@ -48,7 +48,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/51pTQltFltS._AC_UF1000,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Coffee</h5>
@@ -60,7 +60,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/61y4Xljq-eL._AC_UF894,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Chocolate</h5>
@@ -72,7 +72,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/61mQDFK0CNL._AC_UF1000,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Chocolate</h5>
@@ -84,7 +84,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/71IPBQVT2fL._AC_UF1000,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Coffee</h5>
@@ -96,7 +96,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/61y4Xljq-eL._AC_UF894,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Chocolate</h5>
@@ -108,7 +108,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/51pTQltFltS._AC_UF1000,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Coffee</h5>
@@ -120,7 +120,7 @@ const Products = () => {
           
           <div className="col col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 col-xxl-3">
             
-            <div className="card">
+            <div className="card h-100">
   <img src="https://m.media-amazon.com/images/I/71IPBQVT2fL._AC_UF1000,1000_QL80_FMwebp_.jpg" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Coffee</h5>
