@@ -1,12 +1,12 @@
 import './App.css';
 import Products from './components/Products';
-import Search from './components/Search';
+import Form from './components/Form';
 import Searchbar from './components/Searchbar';
 
 function App() {
   return (
     <div>
-	  <Search /> <br/>
+	  <Form /> <br/>
 
 	 <Searchbar /> 
 	<br/>
